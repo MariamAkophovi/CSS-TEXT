@@ -1,0 +1,40 @@
+body {
+    background-color: lightgrey;
+    color: blue;
+}
+  
+.style1  {
+    border: 1px solid gray;
+    padding: 8px;
+}
+  
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #4CAF50;
+}
+
+h2 {
+    color: green;
+}
+
+h3 {
+    background-color: black;
+    color: white;
+}
+  
+.style2 {
+    background-color: blue;
+    color: white;
+}
+  
+p {
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 3px;
+}
+  
+a {
+    text-decoration: none;
+    color: #008CBA;
+}
